@@ -1,0 +1,15 @@
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\bin\Debug\SandBox.exe
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\bin\Debug\SandBox.pdb
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox.csprojResolveAssemblyReference.cache
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox.g.cs
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\App.g.cs
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox_MarkupCompile.cache
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox_MarkupCompile.lref
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox.baml
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\themes\generic.baml
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox.g.resources
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox.Properties.Resources.resources
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox.csproj.GenerateResource.Cache
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox.exe
+C:\Users\ashokr\Documents\DownloadedDemos\PlayGround\SandBox\obj\Debug\SandBox.pdb
